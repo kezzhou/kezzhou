@@ -2,10 +2,12 @@
 
 I am currently a data analyst student with a passion for working with data to drive insights and inform decision-making. I'm always looking for new challenges and opportunities to learn, and I'm excited to be sharing some of my work on GitHub. Some of my previous work includes a custom-built patient portal and a Southampton Hospital Falls Prevention patient database with EBP-paring capabilities.
 
+![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+
 ## About Me
 - Current project: reducing 30-day readmission rates for diabetic patients.
 - Fun Fact: I enjoy video editing and production
-- Portfolio: [![GitHub](https://github.com/kezzhou?tab=repositories)
+- Portfolio: [![GitHub repositories](https://img.shields.io/badge/My%20Repos-6-blue)](https://github.com/your-username?tab=repositories)
 
 ## Technical Skills
 
